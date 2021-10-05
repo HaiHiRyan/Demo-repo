@@ -1,0 +1,9 @@
+ul li{
+    color: brown;
+    font-size: 30px;
+}
+
+ul > li{
+    color: cornflowerblue;
+    font-size: 10px;
+}

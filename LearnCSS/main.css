@@ -1,0 +1,10 @@
+.MyCss {
+ background:linear-gradient(#0040ff,#b3c6ff)
+}
+h1{
+    color: saddlebrown;
+}
+h2{
+    color: rgb(red, green, blue);
+    text-shadow: 8px 4px 1px  darkviolet;
+}

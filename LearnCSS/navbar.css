@@ -1,0 +1,43 @@
+/* ###############Defaults################### */
+nav, header, 
+footer{
+    display: block;
+}
+
+body{
+    line-height: 1;
+    margin: 0px;
+}
+/* ###############NavBar################## */
+nav{
+    width: 100%;
+    margin: 0px;
+}
+nav ul{
+    background-color: #eee;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0;
+}
+ul.topnavbar li{
+    list-style: none;
+    float: left;
+    
+}
+ul.topnavbar li.right{
+    display: block;
+    float: right;
+}
+ul.topnavbar li a{
+    display: block;
+    text-decoration: none;
+    min-height: 16px;
+    text-align: center;
+    padding: 15px;
+    text-transform: uppercase;
+    color: #666;
+}
+ul.topnavbar li a:hover {
+    background-color: green;
+    color:black;
+}

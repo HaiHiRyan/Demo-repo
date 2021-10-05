@@ -1,0 +1,19 @@
+body{
+    background-color: dimgrey;
+}
+
+h1{
+    color: firebrick;
+    text-align: center;
+}
+
+.square{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    margin: auto;
+}
+#circle{
+    color: greenyellow;
+    font-size: 50px;
+}

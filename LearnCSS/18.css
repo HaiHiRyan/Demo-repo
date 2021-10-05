@@ -1,0 +1,15 @@
+h1{
+    color: brown;
+    line-height: 3rem;
+    font-family: 'MonteCarlo', cursive;
+}
+h2{
+    color:chartreuse;
+    line-height: 3rem;
+    font-family: 'Style Script', cursive;
+}
+h3{
+    color:cadetblue;
+    line-height: 3rem;
+    font-family: 'WindSong', cursive;
+}

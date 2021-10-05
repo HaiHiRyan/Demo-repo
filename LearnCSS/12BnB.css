@@ -1,0 +1,35 @@
+body{ 
+    background-image: url(natural.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    background-color: blueviolet;
+    text-shadow: 5px 5px 3px darkseagreen;
+}
+
+h2{
+    background-color: firebrick;
+    text-shadow: 5px 5px 3px yellowgreen;
+}
+
+
+ .img{
+     /* border-radius: 500%;lam hinh tron */
+     width: 600px;
+     height: 300px;
+     opacity: 1;
+ }
+.row{
+    display: flex;
+    width: 100%;
+    
+}
+ .row  ::after{
+     display:flex;
+     clear: both;
+     content:"ALL";
+     text-align: center;
+ }
